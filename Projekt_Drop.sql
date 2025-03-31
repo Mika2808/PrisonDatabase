@@ -1,0 +1,20 @@
+USE Prison;
+
+DROP TABLE Badania;
+DROP TABLE Przepustka;
+DROP TABLE Wyrok;
+DROP TABLE RejestrCel;
+DROP TABLE Cela;
+DROP TABLE BlokWiêzienny;
+DROP TABLE Zapisy;
+DROP TABLE Obecnoœæ;
+DROP TABLE Zajêcia;
+DROP TABLE Odwiedza;
+DROP TABLE Przychodzi;
+DROP TABLE Odwiedzaj¹cy;
+DROP TABLE Odwiedziny;
+DROP TABLE Odsiadka;
+DROP TABLE S¹dyKarne;
+DROP TABLE ZajêciaTabela;
+DROP TABLE DniTygodnia;
+DROP FUNCTION ISGOOD;
